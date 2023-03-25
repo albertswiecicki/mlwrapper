@@ -1,4 +1,4 @@
 numpy
 mlflow==1.4.0
 tensorboard==2.0.0
-tensorflow==2.0.0b1
+tensorflow==2.11.1
